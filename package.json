@@ -1,0 +1,16 @@
+{
+  "name": "node_ass",
+  "version": "1.0.0",
+  "description": "assignment week 5",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "favour",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.20",
+    "uuid": "^9.0.0"
+  }
+}
